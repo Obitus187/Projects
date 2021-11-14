@@ -1,5 +1,6 @@
 import random
 
+# test
 
 def computer_turn():  # Generates computer's choice
     computer_list = ['Rock', 'Paper', 'Scissors']
